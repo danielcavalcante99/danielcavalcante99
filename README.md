@@ -1,6 +1,6 @@
 ### Olá! Sou Daniel Cavalcante, Desenvolvedor FullStack
-- 👩‍💻 Hoje trabalho com os Frameworks React & Spring
-- 🔥 Apaixonado pelo mundo da tecnologia
+🔵 Hoje trabalho com os Frameworks React & Spring 👩‍💻 </br>
+🔵 Apaixonado pelo mundo da tecnologia 🔥 
 
 <div align="center">
   <a href="https://github.com/danielcavalcante99">
