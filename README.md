@@ -1,6 +1,5 @@
 ### Olá! Sou Daniel Cavalcante, Desenvolvedor FullStack
 🔵 Apaixonado pelo mundo da tecnologia 🔥 
-
 <div align="center">
   <a href="https://github.com/danielcavalcante99">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=danielcavalcante99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
