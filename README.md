@@ -1,5 +1,5 @@
 ### Olá! Sou Daniel Cavalcante, Desenvolvedor FullStack
-🔵 Apaixonado pelo mundo da tecnologia 🔥 
+🔵Apaixonado pelo mundo da tecnologia 🔥 
 <!--
 <div align="center">
   <a href="https://github.com/danielcavalcante99">
