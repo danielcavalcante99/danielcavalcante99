@@ -1,12 +1,12 @@
 ### Olá! Sou Daniel Cavalcante, Desenvolvedor FullStack
 🔵Apaixonado pelo mundo da tecnologia 🔥 
-<!--
+
 <div align="center">
   <a href="https://github.com/danielcavalcante99">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=danielcavalcante99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcavalcante99&layout=compact&langs_count=7&theme=dark"/>
 </div>
--->
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Daniel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
